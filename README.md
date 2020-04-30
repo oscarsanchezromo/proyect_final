@@ -1,2 +1,2 @@
 # proyect_final
-colab
+proyecto dedicado para personas con alzheimer
